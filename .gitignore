@@ -286,3 +286,6 @@ fabric.properties
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,unity,visualstudiocode,androidstudio,android
+/Project 3 - VR Interactions/Library/Bee/artifacts
+/Project 3 - VR Interactions/Library/Bee/Android/Prj/IL2CPP/Gradle
+/Project 3 - VR Interactions/Library/PackageCache
